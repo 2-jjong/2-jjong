@@ -1,4 +1,8 @@
-![](https://komarev.com/ghpvc/?username=2-jjong&label=Profile%20views&color=af4bf1&style=flat) 
+<div style="float: right;">
+
+![](https://komarev.com/ghpvc/?username=2-jjong&label=Profile%20views&color=af4bf1&style=flat)
+
+</div> 
 
 ## ✨ 소개
 - **삼성 청년 SW 아카데미(SSAFY) 13기**  
