@@ -18,7 +18,7 @@
 ## 🎉 수상  
 
 - **경북대학교 & 계명대학교 공동 해커톤** : 인기상
-- **한국정보기술학회 2024 하계학술대회 대학생 논문 경진대회** : 은상
+- **한국정보기술학회 2024 하계학술대회 대학생 논문경진대회** : 은상
 - **제 7회 4차 산업혁명 인재양성 공유 협업 페스티발** : 창업아이디어 부문 우수상
 
 ## 🍀 자격증  
@@ -28,10 +28,11 @@
 ## 📚 논문  
 
 - **한국정보기술학회 2024년도 하계종합학술대회** - 소상공인을 위한 온-오프라인 통합 패션 플랫폼 구현
-  - <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825681">DBpia</a>
+  - <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825721">DBpia</a>
 - **대한전자공학회 2023년도 추계종합학술대회** - 딥보이스를 이용한 보이스피싱의 대응방안을 위한 음성 주파수 분석  
+  - <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701410">DBpia</a>
 - **대한전자공학회 2023년도 추계종합학술대회** - 마이크로 서비스 아키텍처 설계 및 구축을 위한 가상화 기술별 성능 비교 분석
-  - <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667720">DBpia</a> 
+  - <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701299">DBpia</a> 
 
 ## 📫 기술스택  
 
